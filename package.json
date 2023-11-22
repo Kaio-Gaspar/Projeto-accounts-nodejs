@@ -1,0 +1,15 @@
+{
+  "name": "accounts",
+  "version": "1.0.0",
+  "description": "node do 0 a maestria. projeto01",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Kaio Gaspar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "inquirer": "^8.2.6"
+  }
+}
