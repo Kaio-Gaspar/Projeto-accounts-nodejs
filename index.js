@@ -194,3 +194,4 @@ function removeAmount(accountName, amount) {
     )
     console.log(chalk.green(`Foi feito um saque de R$${amount} na sua conta!`))
 }
+//end
